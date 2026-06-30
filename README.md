@@ -122,19 +122,15 @@ Exploring practical implementations of AI tools and automation workflows.
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=sumitmitraa&theme=tokyonight)
 
-</div>
 
 
 ---
 
 ## 🧠 Learning Philosophy
 
-> "Don't just learn tools. Understand systems, solve problems, and build things that create impact."
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 ---
 
 ## 📫 Connect With Me
