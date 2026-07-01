@@ -37,17 +37,11 @@ I believe the future belongs to developers who understand not only how to build 
 
 ---
 
-## 💡 What I Like Building
-
-✨ Data-driven applications  
-✨ AI-powered tools  
-✨ Automation workflows  
-✨ Interactive web experiences  
-✨ Analytics dashboards  
-✨ Problem-solving based projects  
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sumit-prajapati-0444a82b5)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://www.instagram.com/sumit.mitraa)
 
 ---
-
 ## 🛠️ Tech Stack & Tools
 
 ### 👨‍💻 Programming
@@ -61,6 +55,7 @@ I believe the future belongs to developers who understand not only how to build 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 ---
 
@@ -69,6 +64,8 @@ I believe the future belongs to developers who understand not only how to build 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ---
 
@@ -76,6 +73,7 @@ I believe the future belongs to developers who understand not only how to build 
 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ---
 
@@ -135,15 +133,8 @@ Exploring practical implementations of AI tools and automation workflows.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-prajapati-0444a82b5)
+💼 Open to internships, freelance opportunities, collaborations, and Data Science / Machine Learning projects.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](YOUR_PORTFOLIO_URL)
+📧 Email: socalledmitraa@gmail.com
 
-
----
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-</div>
+🔗 LinkedIn: https://linkedin.com/in/sumit-prajapati-0444a82b5
