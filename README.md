@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sumit Prajapati
 
 <div align="center">
-
+  
 ### 🚀 Aspiring AI Engineer | Data Analytics Enthusiast | Automation Explorer
 
 *"Building skills today for the AI-driven future."*
@@ -137,5 +137,4 @@ Exploring practical implementations of AI tools and automation workflows.
 💼 Open to internships, freelance opportunities, collaborations, and Data Science / Machine Learning projects.
 
 📧 Email: socalledmitraa@gmail.com
-
 🔗 LinkedIn: https://linkedin.com/in/sumit-prajapati-0444a82b5
